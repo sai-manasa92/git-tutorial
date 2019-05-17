@@ -21,13 +21,5 @@ My first Git repo. I will be updating the readme file as I learn new stuff. Also
 - [ ] Request a review by one of the peers you invited into your repo
 - [ ] Once they approve merge in the code into the master branch
 
-## GIT Assignment-2
-- [ ] Do the old homework if you haven't done the first.
-- [ ] Practice using the stash commands (https://git-scm.com/docs/git-stash) adding/popping
-- [ ] Add multiple commits to a pull request
-- [ ] Squash all of the commits to 1 commit
-- [ ] Reword the commit in the pull request
-- [ ] Get all of your usernames inside of the mobile posse organization
-- [ ] Comment on my pull request that I am going to add you all to
 
 
