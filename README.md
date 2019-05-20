@@ -20,6 +20,6 @@ My first Git repo. I will be updating the readme file as I learn new stuff.
 
 ### Adding a file from local to remote:
 - Creating a file locally using text editor in the folder.
-- git add <file-name>
+- git add <file_name>
 - git commit -m "Adding new file from terminal to repo"
-- git push origin <branch_name-name>
+- git push origin <branch_name>
