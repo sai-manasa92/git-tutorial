@@ -11,7 +11,7 @@ My first Git repo. I will be updating the readme file as I learn new stuff.
 7. Creating a branch
 8. Basic writing and formatting syntax.
 
-## Important syntaxes learnt:
+## Important syntax:
 ### Viewing all the commits:
 - git log : to see the history of the commits
 - press q to exit from git log
