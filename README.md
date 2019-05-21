@@ -18,6 +18,7 @@ My first Git repo. I will be updating the readme file as I learn new stuff.
 - git branch -d <branch_name> : to delete a branch locally
 - git push origin —delete <branch_name> : to delete a branch remotely 
 
+
 ### Adding a file from local to remote:
 - Creating a file locally using text editor in the folder.
 - git add <file_name>
