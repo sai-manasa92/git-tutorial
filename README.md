@@ -38,3 +38,4 @@ My first Git repo. I will be updating the readme file as I learn new stuff.
 - git stash apply <index> : applies the changes related to the index to a particular branch and the index still lives in the git stash list
 - git stash pop : applies the top most index to a particular branch and clears it from the git stash list
 - git stash drop <index> : drops off a particular stash with the index. Both from the file and the stash list.
+
