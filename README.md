@@ -50,6 +50,7 @@ After creating multiple updates and commits in the files, we might end up in a p
 - opens up another editor allowing us to edit the commit message for the new combined commit.
 - :wq (write and quit)
 - git log : to check the change.
+- git push origin <branch_name> -f : force pushing is essential for the changes to reflect on the remote branch during the pull request.
 
 ### Rewording a commit message
 Two types of Rewording a commit message:
