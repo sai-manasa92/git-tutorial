@@ -1,8 +1,8 @@
 ## GIT Assignment-2
 - [X] Do the old homework if you haven't done the first.
-- [ ] Practice using the stash commands (https://git-scm.com/docs/git-stash) adding/popping
-- [ ] Add multiple commits to a pull request
-- [ ] Squash all of the commits to 1 commit
-- [ ] Reword the commit in the pull request
-- [ ] Get all of your usernames inside of the mobile posse organization
-- [ ] Comment on my pull request that I am going to add you all to
+- [X] Practice using the stash commands (https://git-scm.com/docs/git-stash) adding/popping
+- [X] Add multiple commits to a pull request
+- [X] Squash all of the commits to 1 commit
+- [X] Reword the commit in the pull request
+- [X] Get all of your usernames inside of the mobile posse organization
+- [] Comment on my pull request that I am going to add you all to
