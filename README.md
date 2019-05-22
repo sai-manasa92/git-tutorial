@@ -7,7 +7,7 @@ My first Git repo. I will be updating the readme file as I learn new stuff.
 3. Differences between git and github?
 4. What is a repo?
 5. master branch
-6. Branching technique.
+6. Branching technique: 
 7. Creating a branch
 8. Basic writing and formatting syntax: https://help.github.com/en/articles/basic-writing-and-formatting-syntax#task-lists
 
@@ -42,7 +42,7 @@ My first Git repo. I will be updating the readme file as I learn new stuff.
 ### Squashing commits
 After creating multiple updates and commits in the files, we might end up in a phase where we make many commits for a single file. To make the entire process much cleaner we can combine all the tiny commits into a single commit. This method is called Squashing.
 
-#### Steps for squashing: (Add any other steps if required)
+#### Steps for squashing: (Refer: https://yangsu.github.io/pull-request-tutorial/)
 - git rebase master
 - git rebase -i HEAD~5 : 5 indicates the number of commits, i means interactive mode.
 - leave the first commit with pick and replace all the other commits with 's' or 'squash' (that indicates you are squashing into the first commit)
