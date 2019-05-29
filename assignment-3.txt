@@ -1,0 +1,15 @@
+# Homework Part 3
+Aside from the exercise below, start looking at all of the pull requests in github and comment if you have questions, talk to developers about what they are doing, etc.
+Get comfortable with the tool!
+
+-Do the old homework if you haven't done the first.
+-Create a branch and change and add files to your repository
+-Stash all of those changes
+-Create a new branch and delete the old local branch
+-Pop all of those changes into your new branch
+-Commit all of those changes into one commit
+-Push to the origin
+-Split all of those changes into 4-5 commits
+-Push to origin
+-Re-order some of those commits
+-Push to origin

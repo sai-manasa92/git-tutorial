@@ -10,6 +10,8 @@ My first Git repo. I will be updating the readme file as I learn new stuff.
 6. Branching technique.
 7. Creating a branch
 8. Basic writing and formatting syntax: https://help.github.com/en/articles/basic-writing-and-formatting-syntax#task-lists
+9. Setting 'Atom' as the default editor in git : git config --global core.editor "atom --wait"
+
 
 ## Important syntax:
 
@@ -31,7 +33,7 @@ My first Git repo. I will be updating the readme file as I learn new stuff.
 - git commit -m "Adding new file from terminal to repo"
 - git push origin <branch_name>
 
-### Stash
+### Stash (Add more notes on git stash: https://www.youtube.com/watch?v=d6vn5r4lWqE)
 - git stash save "message" : saving the current status of the branch
 - git diff
 - git stash list : gives a list of all the stashes with indexes

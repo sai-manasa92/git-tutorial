@@ -1,13 +1,9 @@
-# Introduction
-
-Learn about the branching techniques and also perform the following tasks.
-
 ## GIT Assignment-1
-- [X] Setup a github account
-- [X] Setup SSH Keys for your working computer with your account
-- [X] Create a repository in github
-- [X] Invite your peers to join the repository
-- [X] Commit a README.md file to the repository and highlight the things that you learned in git
-- [X] Create a branch in that repo, and create a pull request
-- [X] Request a review by one of the peers you invited into your repo
-- [X] Once they approve merge in the code into the master branch
+- Setup a github account
+- Setup SSH Keys for your working computer with your account
+- Create a repository in github
+- Invite your peers to join the repository
+- Commit a README.md file to the repository and highlight the things that you learned in git
+- Create a branch in that repo, and create a pull request
+- Request a review by one of the peers you invited into your repo
+- Once they approve merge in the code into the master branch
