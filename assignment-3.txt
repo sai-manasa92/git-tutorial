@@ -14,9 +14,4 @@ Get comfortable with the tool!
 -Re-order some of those commits
 -Push to origin
 
-- Change 1
-- Change 2
-- Change 3
-- Change 4
 
-Sai Manasa
