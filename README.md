@@ -2,16 +2,8 @@
 My first Git repo. I will be updating the readme file as I learn new stuff.
 
 ## Learnings in class:
-1. What is git?
-2. What is github?
-3. Differences between git and github?
-4. What is a repo?
-5. master branch
-6. Branching technique: 
-7. Creating a branch
-8. Basic writing and formatting syntax: https://help.github.com/en/articles/basic-writing-and-formatting-syntax#task-lists
-9. Setting 'Atom' as the default editor in git : git config --global core.editor "atom --wait"
-
+1. Basic writing and formatting syntax: https://help.github.com/en/articles/basic-writing-and-formatting-syntax#task-lists
+2. Setting 'Atom' as the default editor in git : git config --global core.editor "atom --wait"
 
 ## Important syntax:
 
@@ -70,3 +62,22 @@ git commit --amend -m "new_message"
 - opens up another editor allowing us to edit the commit message for the new combined commit.
 - :wq (write and quit)
 - git log : to check the change.
+
+### Splitting a commits
+When there are multiple changes in a single commit or the commit is very big that it can be saved a smaller and more meaningful works, we usually split the commit.
+
+- git reset HEAD~ : we will unstage the changes after the reset
+- git status
+- git diff
+- git add -
+- then it would ask us whether we need to
+  - Stage this hunk [y,n,q,a,d,s,e,?]? s
+  - Stage this hunk [y,n,q,a,d,j,J,g,/,e,?]? y
+  - Stage this hunk [y,n,q,a,d,K,g,/,e,?]? e
+- Remove the changes that are recently added.
+- Now save and close the files
+- Commit the remaining changes with a new commit message git commit -m "message-1"
+- Now do a git diff : To see what are the removed changes.
+- Add them git add .
+- Commit the changes with another commit message git commit -m "message-2"
+- git log --online : to check the log message and confirm 2 different commit messages.
