@@ -13,7 +13,3 @@ Get comfortable with the tool!
 -Push to origin
 -Re-order some of those commits
 -Push to origin
-
-
-
-Sai Manasa Mamillapalli

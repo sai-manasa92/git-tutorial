@@ -8,5 +8,3 @@
 - Reword the commit in the pull request
 - Get all of your usernames inside of the mobile posse organization
 - Comment on my pull request that I am going to add you all to
-
-Sai Manasa
